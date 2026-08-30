@@ -1,5 +1,5 @@
-Host: <NGROK_HOST_OR_IP>
-Port: <NGROK_PORT>
+Host: 0.tcp.in.ngrok.io
+Port: 24722
 Username: ctf1
 Password: ctf1pass
 

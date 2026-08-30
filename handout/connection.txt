@@ -1,0 +1,6 @@
+Host: <NGROK_HOST_OR_IP>
+Port: <NGROK_PORT>
+Username: ctf1
+Password: ctf1pass
+
+Target: Escalate privileges to read the contents of /etc/ctf_flags/flag.
